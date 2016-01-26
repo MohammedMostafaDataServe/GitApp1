@@ -14,4 +14,7 @@ public class Test {
     public String sayHello(String master) {
         return "Hello: " + master;
     }
+      public String sayHelloByMohammed(String name) {
+        return "Hello: " + name;
+    }
 }

@@ -14,4 +14,7 @@ public class Test {
     public String sayHello(String master) {
         return "Hello: " + master;
     }
+    public void goWithGit(String git){
+        System.out.println(git);
+    }
 }
